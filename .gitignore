@@ -1,0 +1,13 @@
+
+.vscode
+.project
+
+domain1/.settings
+domain1/.classpath
+domain1/.project
+domain1/target
+
+infrastructure/.settings
+infrastructure/.classpath
+infrastructure/.project
+infrastructure/target
